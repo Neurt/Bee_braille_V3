@@ -1,0 +1,3 @@
+ Bee-Braille is a device or reading tool for the visually impaired that enables them to read books or digital documents in Braille. Braille is a tactile reading and writing system for the visually impaired, where raised dots represent letters of the alphabet. Braille is read by moving the hands or fingers from left to right along each line. 
+ By using Braille letters, visually impaired individuals can review and study written words. They can also recognize different written conventions such as spelling, punctuation, paragraphs, and footnotes. 
+![image](https://github.com/user-attachments/assets/6fee22ab-a577-40c9-80fb-051623207a73)
